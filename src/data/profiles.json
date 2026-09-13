@@ -168,6 +168,15 @@
 					"url": "https://wmw-frog-enjoyer.github.io/"
 				}
 			]
+		},
+		{
+			"username": "blak",
+			"displayName": "Blak",
+			"bio": "har har har har har 🐻",
+			"roles": ["Member"],
+			"discordId": "710753493354414091",
+			"showPresence": true,
+			"socials": []
 		}
 	]
 }
