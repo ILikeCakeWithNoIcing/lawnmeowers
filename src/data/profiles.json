@@ -153,6 +153,36 @@
 			"discordId": "1106258874958348391",
 			"showPresence": true,
 			"socials": []
+		},
+		{
+			"username": "lunara",
+			"displayName": "lunara",
+			"bio": "i like frogs",
+			"roles": ["Member"],
+			"discordId": "1175283230136598559",
+			"showPresence": false,
+			"socials": [
+				{
+					"platform": "github",
+					"handle": "wmw-frog-enjoyer",
+					"url": "https://github.com/wmw-frog-enjoyer"
+				},
+				{
+					"platform": "roblox",
+					"handle": "lunara_likefrogs",
+					"url": "https://www.roblox.com/users/10627277960/profile"
+				},
+				{
+					"platform": "youtube",
+					"handle": "lunara-likesfrogs",
+					"url": "https://www.youtube.com/@lunara-likesfrogs"
+				},
+				{
+					"platform": "website",
+					"handle": "wmw-frog-enjoyer.github.io",
+					"url": "https://wmw-frog-enjoyer.github.io/"
+				}
+			]
 		}
 	]
 }
