@@ -177,6 +177,26 @@
 			"discordId": "710753493354414091",
 			"showPresence": true,
 			"socials": []
+		},
+		{
+			"username": "n6ira",
+			"displayName": "noira",
+			"bio": "thighs 🤤",
+			"roles": ["Member"],
+			"discordId": "1197614867339821086",
+			"showPresence": true,
+			"socials": [
+				{
+					"platform": "spotify",
+					"handle": "noira",
+					"url": "https://open.spotify.com/user/31auh3i7tkomyf7xcpycyz2ueatm"
+				},
+				{
+					"platform": "roblox",
+					"handle": "Spyder8104",
+					"url": "https://www.roblox.com/users/3268156812/profile"
+				}
+			]
 		}
 	]
 }
